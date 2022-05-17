@@ -11,4 +11,6 @@ hello
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+[![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/453449)](https://stackoverflow.com/users/453449/kmc059000)
+
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=kmc059000.kmc059000)
